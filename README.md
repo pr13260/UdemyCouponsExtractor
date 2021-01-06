@@ -3,13 +3,13 @@
 Installation:
 
 ```
-git clone https://github.com/swatv3nub/CouponsExtractor.git
+git clone https://github.com/swatv3nub/UdemyCouponsExtractor.git
 
 sudo pip install -r requirements.txt
 
-sudo chmod +x  "Udemy Course Coupons.py"
+sudo chmod +x  "UdemyCouponsExtractor.py"
 
-./"Udemy Course Coupons.py"
+./"UdemyCouponsExtractor.py"
 ```
 
 add your credits 
