@@ -20,7 +20,7 @@ Disclaimer :
 
 Don't use it Extensively
 
-I am responsible if any thing happens or goes wrong
+I am not responsible if any thing happens or goes wrong
 
 By [Project Hackfreaks](https://t.me/ProjectHackfreaks)
 Need Help, Reach Out at [Telegram](https://t.me/HackfreaksSupport)
