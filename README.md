@@ -1,7 +1,7 @@
 # Udemy Courses Coupon Extraction
 
 Installation:
-
+LINUX/UBUNTU
 ```
 git clone https://github.com/swatv3nub/UdemyCouponsExtractor.git
 
@@ -10,6 +10,17 @@ sudo pip install -r requirements.txt
 sudo chmod +x  "UdemyCouponsExtractor.py"
 
 ./"UdemyCouponsExtractor.py"
+```
+TERMUX SETUP
+
+```
+git clone https://github.com/swatv3nub/UdemyCouponsExtractor.git
+
+Pip install -r requirements.txt
+
+chmod +x  UdemyCouponsExtractor.py
+
+python UdemyCouponsExtractor.py"
 ```
 
 add your credits 
